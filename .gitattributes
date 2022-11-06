@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.css linguist-language=Vue
+*.html linguist-language=Vue
